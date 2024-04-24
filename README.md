@@ -46,7 +46,7 @@ The `test.ipynb` notebook evaluates the trained LSTM model's performance in pred
 
 ## Contributors
 
-- [Your Name](https://github.com/Pulkit-exe)
+- [Pulkit Rustagi](https://github.com/Pulkit-exe)
 
 ## License
 
